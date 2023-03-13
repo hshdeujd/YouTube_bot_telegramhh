@@ -1,6 +1,6 @@
 # YouTube Video Download Bot
 
-> A Telegram bot that can search and download YouTube videos & playlists🔥
+> A Telegram bot that can search and download YouTube vylists🔥
 ---------------------
 <br>
 <p align="center">
